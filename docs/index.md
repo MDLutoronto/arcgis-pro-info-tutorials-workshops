@@ -3,6 +3,9 @@ title: "ArcGIS Pro: Information, Tutorials, and Workshops"
 layout: "home"
 description: "ArcGIS Pro is a desktop GIS software developed by Esri."
 created_date: 2022-07-21
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 permalink: "/"  #! Remove this if not the homepage
 ---
 
