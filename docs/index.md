@@ -3,9 +3,6 @@ title: "ArcGIS Pro: Information, Tutorials, and Workshops"
 layout: "home"
 description: "ArcGIS Pro is a desktop GIS software developed by Esri."
 created_date: 2022-07-21
-staff:
-    - name: Marcel Fortin
-      link: https://library.utoronto.ca/staff/marcel-fortin
 maintainer:
     - name: Cole White
       link: https://library.utoronto.ca/staff/cole-white
@@ -19,7 +16,7 @@ permalink: "/"  #! Remove this if not the homepage
 Getting started
 ---------------
 
-* Visit our tutorial on [Downloading, Installing, and Licensing ArcGIS Pro](https://mdl.library.utoronto.ca/technology/tutorials/downloading-installing-and-licensing-arcgis-pro)
+* Visit our tutorial on [Downloading, Installing, and Licensing ArcGIS Pro](https://mdlutoronto.github.io/arcgis-pro-install-license/)
 
 Learning resources
 ------------------
