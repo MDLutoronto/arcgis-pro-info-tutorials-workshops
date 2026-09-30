@@ -36,7 +36,7 @@ Learning resources
 
 ### Additional resources
 
-* [Accessing Online GIS Classes in ESRI Academy](https://mdl.library.utoronto.ca/technology/tutorials/how-access-online-gis-classes-esri-academy)
+* [Accessing Online GIS Classes in ESRI Academy](https://mdlutoronto.github.io/gis-class-esri-academy/)
 * Consider checking with your local public library to see if they offer access to [LinkedIn Learning](https://www.linkedin.com/learning-login/go) where you will find a number of self-paced workshops for Esri software like ArcGIS Pro
 
-**Technique:** [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis), [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
+**Technique:** [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis), [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) | **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
